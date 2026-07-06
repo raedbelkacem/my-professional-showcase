@@ -77,8 +77,8 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
+      { title: "Raed Belkacem — AI & Software Engineer" },
+      { name: "description", content: "Portfolio of Raed Belkacem, computer engineering student specialized in AI, ML and full-stack development." },
       { name: "author", content: "Raed Belkacem" },
       { property: "og:title", content: "Raed Belkacem — AI & Software Engineer" },
       { property: "og:description", content: "Portfolio of Raed Belkacem, computer engineering student specialized in AI, ML and full-stack development." },
